@@ -14,7 +14,7 @@ TreeClip is a Windows application that generates a visual layout of a folder and
 ## Requirements
 - .NET Framework 4.7.2 or higher
 - Windows 10 - 11
-## Installation
+## Installation / How to use
 
 To install TreeClip as a standalone
 
