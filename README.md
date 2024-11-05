@@ -23,7 +23,7 @@ To install TreeClip as a standalone
 3. Once installed, you can use TreeClip directly from the context menu by right-clicking on any folder and selecting TreeClip Format.
 ## Usage
 
-1. After installation, right-click on a folder in Windows Explorer.
+1. After installation, right-click on a folder in Windows Explorer or Desktop.
 2. Select TreeClip Format from the context menu.
 3. A notification will appear confirming that the folder structure has been copied to the clipboard.
 4. Paste it anywhere (e.g., in a text editor) to view the layout.
