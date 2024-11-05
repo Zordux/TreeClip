@@ -1,0 +1,7 @@
+C:\Users\Roman\source\repos\TreeClip\bin\Debug\TreeClip.exe.config
+C:\Users\Roman\source\repos\TreeClip\bin\Debug\TreeClip.exe
+C:\Users\Roman\source\repos\TreeClip\bin\Debug\TreeClip.pdb
+C:\Users\Roman\source\repos\TreeClip\obj\Debug\TreeClip.csproj.AssemblyReference.cache
+C:\Users\Roman\source\repos\TreeClip\obj\Debug\TreeClip.csproj.CoreCompileInputs.cache
+C:\Users\Roman\source\repos\TreeClip\obj\Debug\TreeClip.exe
+C:\Users\Roman\source\repos\TreeClip\obj\Debug\TreeClip.pdb
